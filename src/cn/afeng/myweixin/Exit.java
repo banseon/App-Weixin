@@ -3,7 +3,6 @@ package cn.afeng.myweixin;
 
 import cn.afeng.myweixin.R;
 import android.app.Activity;
-import android.content.Intent;
 import android.os.Bundle;
 import android.view.MotionEvent;
 import android.view.View;
